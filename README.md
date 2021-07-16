@@ -37,7 +37,7 @@ Basics responsive **HTML/CSS/JS** websites and pages
 ## Built with
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&repo=Dev-challengesshow_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
 
 ## Author
 
