@@ -10,7 +10,7 @@ You will find different paths to follow, each path has a set of challenges or pr
 
 ## Table of contents
 
-- [Responsive web developer](#projects)
+- [Projects](#projects)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
