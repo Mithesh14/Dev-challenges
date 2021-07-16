@@ -20,19 +20,19 @@ You can find below my solutions :
 
 Basics responsive **HTML/CSS/JS** websites and pages
 
-- Challenge 1 : [**"404 Not Found"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/404-not-found)
+- Challenge 1 : [**"404 Not Found"**](https://github.com/Mithesh14/Dev-challenges/tree/main/404-not-found)
 
-- Challenge 2 : [**"My Team Page"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/my-team-page)
+- Challenge 2 : [**"My Team Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/my-team-page)
 
-- Challenge 3 : [**"Interior Consultant"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/interior-consultant)
+- Challenge 3 : [**"Interior Consultant"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Interior-consultant)
 
-- Challenge 4 : [**"Recipe Page"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/recipe-page)
+- Challenge 4 : [**"Recipe Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Recipe-page)
 
 - Challenge 5 : [**"My Gallery"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/my-gallery)
 
-- Challenge 6 : [**"Checkout Page"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/checkout-page)
+- Challenge 6 : [**"Checkout Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Checkout-page)
  
-- Challenge 7 : [**"Edie Homepage"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/recipe-page)
+- Challenge 7 : [**"Edie Homepage"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Edie-homepage)
 
 ## Built with
 
