@@ -40,6 +40,7 @@ Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 
 - HTML
 - CSS
+- JAVASCRIPT
 - SASS
 - TAILWIND CSS
 
