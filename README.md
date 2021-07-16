@@ -36,7 +36,9 @@ Basics responsive **HTML/CSS/JS** websites and pages
 
 ## Built with
 
-<img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-html-256.png" width="50"><img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-css-256.png" width="50"><img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-javascript-256.png" width="50"><img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-scss-256.png" width="50"><img src="https://cdn4.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-tailwind-256.png" width="50">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
+
 ## Author
 
 - Website - [Mithesh](https://mithesh14.netlify.app/)
