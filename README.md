@@ -2,10 +2,10 @@
 
 ![](logo-dev-challenges.png)
 
-What is devChallenges.io?
+What is devChallenges.io?<BR>
 devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.
 
-You will find different paths to follow, each path has a set of challenges or projects that you need to complete in order to get a certificate. Paths are designed for you to practice different aspects of Software Development. For more informations check [Dev Challenges website](https://devchallenges.io/)
+You will find different paths to follow, each path has a set of challenges or projects that you need to complete in order to get a certificate. Paths are designed for you to practice different aspects of Software Development.<br> For more informations check [Dev Challenges website](https://devchallenges.io/)
 
 
 ## Table of contents
