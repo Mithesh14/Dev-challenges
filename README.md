@@ -10,12 +10,12 @@ You will find different paths to follow, each path has a set of challenges or pr
 
 ## Table of contents
 
-- [Basic resposive websites](#responsive-web-developer-path)
+- [Responsive web developer](#projects)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Responsive Web Developer Path :
+## Projects :
 
 Basics responsive **HTML/CSS/JS** websites and pages
 
@@ -37,7 +37,7 @@ Basics responsive **HTML/CSS/JS** websites and pages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&repo=Dev-challengesshow_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
 
-## Useful reources
+## Useful resources
 
 - [Stackoverflow](https://stackoverflow.com/) - For Javascript.
 
