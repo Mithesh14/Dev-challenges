@@ -7,7 +7,6 @@ devChallenges.io is a community and a platform for anyone who wants to become a 
 
 You will find different paths to follow, each path has a set of challenges or projects that you need to complete in order to get a certificate. Paths are designed for you to practice different aspects of Software Development. For more informations check [Dev Challenges website](https://devchallenges.io/)
 
-You can find below my solutions :
 
 ## Table of contents
 
@@ -28,7 +27,7 @@ Basics responsive **HTML/CSS/JS** websites and pages
 
 - Challenge 4 : [**"Recipe Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Recipe-page)
 
-- Challenge 5 : [**"My Gallery"**](https://github.com/zathio/dev-challenges/tree/master/responsive-path/my-gallery)
+- Challenge 5 : [**"My Gallery"**](https://github.com/Mithesh14/Dev-challenges/tree/main/My-Gallery)
 
 - Challenge 6 : [**"Checkout Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Checkout-page)
  
@@ -36,8 +35,12 @@ Basics responsive **HTML/CSS/JS** websites and pages
 
 ## Built with
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&repo=Dev-challengesshow_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
+
+## Useful reources
+
+- [Stackoverflow](https://stackoverflow.com/) - For Javascript.
+
 
 ## Author
 
