@@ -10,12 +10,14 @@ You will find different paths to follow, each path has a set of challenges or pr
 
 ## Table of contents
 
-- [Projects](#projects)
+- [Responsive web developer](#responsive-web-developer)
   - [Built with](#built-with)
+  - [Projects](#projects)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Projects :
+## Responsive web developer
+### Projects :
 
 Basics responsive **HTML/CSS/JS** websites and pages
 
@@ -33,14 +35,14 @@ Basics responsive **HTML/CSS/JS** websites and pages
  
 - Challenge 7 : [**"Edie Homepage"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Edie-homepage)
 
-## Built with
+### Built with
 
 - HTML
 - CSS
 - SASS
 - TAILWIND CSS
 
-## Useful resources
+### Useful resources
 
 - [Stackoverflow](https://stackoverflow.com/) - For Javascript.
 
