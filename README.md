@@ -19,7 +19,7 @@ You will find different paths to follow, each path has a set of challenges or pr
 ## Responsive web developer
 ### Projects :
 
-Basics responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites and pages
+Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 
 - Challenge 1 : [**"404 Not Found"**](https://github.com/Mithesh14/Dev-challenges/tree/main/404-not-found)
 
