@@ -11,8 +11,8 @@ You will find different paths to follow, each path has a set of challenges or pr
 ## Table of contents
 
 - [Responsive web developer](#responsive-web-developer)
-  - [Built with](#built-with)
   - [Projects](#projects)
+  - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
