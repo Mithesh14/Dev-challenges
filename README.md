@@ -16,6 +16,8 @@ You will find different paths to follow, each path has a set of challenges or pr
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+<hr>
+
 ## Responsive web developer
 ### Projects :
 
@@ -34,6 +36,8 @@ Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 - Challenge 6 : [**"Checkout Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Checkout-page)
  
 - Challenge 7 : [**"Edie Homepage"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Edie-homepage)
+
+<hr>
 
 ### Built with
 
