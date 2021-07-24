@@ -35,6 +35,8 @@ Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 - Challenge 6 : [**"Checkout Page"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Checkout-page)
  
 - Challenge 7 : [**"Edie Homepage"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Edie-homepage)
+  
+- Challenge 8 : [**"Portfolio"**](https://github.com/Mithesh14/Dev-challenges/tree/main/Portfolio-master)
 
 ### Built with
 
