@@ -60,5 +60,5 @@ Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 
 - Website - [Mithesh](https://mithesh14.netlify.app/)
 - Github -  [Mithesh](https://github.com/Mithesh14)
-- Devchallenges portfolio - [Mithesh](https://devchallenges.io/portfolio/Mithesh14)
+- Devchallenges portfolio - [Mithesh](https://devchallenges.io/portfolio/Mithesh14) 
 
