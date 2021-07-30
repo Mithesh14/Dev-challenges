@@ -53,7 +53,7 @@ Responsive **HTML/CSS/JS/SASS/TAILWINDCSS** websites
 
 ### Useful resources
 
-- [Stackoverflow](https://stackoverflow.com/) - For Javascript.
+- [Stackoverflow](https://stackoverflow.com/) - For Javascript. 
 
 
 ## Author
